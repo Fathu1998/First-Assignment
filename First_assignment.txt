@@ -1,5 +1,10 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
 
+(a)Its a very intriguing subject
+(b)I've always wanted to learn atleast one programming language
+(c)Bioinformaticians are very much in demand these days
+(d)Being an interdisciplinary subject, we get the oppportunity to gain knowledge on various fields
+
 
 
 
@@ -10,3 +15,8 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+
+(a)I expect to gain a lot of knowledge on various fields
+(b)I hope i would have known atleast the basics of python programming 
+(c)I would probably know what actually goes on behind the computer screen during any bioinformatics study 
+(d)Lastly i would have probably have enough skill set to land in a bioinfo company
